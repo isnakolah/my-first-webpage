@@ -1,4 +1,15 @@
 h1 {
-  color: blue;
+  color: #A66455;
   text-align: center;
+}
+h2 {
+  color: #21682A;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
 }
